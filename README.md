@@ -18,7 +18,7 @@ A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaSc
 - **JavaScript**: Implements the game logic.
 
 ## How to View the Game
-1. Visit the [Live Demo]() hosted on GitHub Pages.
+1. Visit the [Live Demo](https://mrpiyushmandloi.github.io/Rock-Paper-Scissors-/) hosted on GitHub Pages.
 2. Or, download the project files and open `index.html` in your browser.
 
 ## How to Run Locally
